@@ -1,0 +1,42 @@
+h1,span
+{
+  font-family: mySpecialFont;
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: center;
+  color: red
+
+}
+header
+{
+  background: pink
+}
+body
+{
+  background: rgba(255, 0, 0, 0.3);
+  font-size: 120%
+}
+h2
+{
+
+  color: green
+
+}
+
+li
+{
+   color: purple
+}
+p
+{
+  color: purple
+}
+details
+{
+  color: purple
+}
+@font-face {
+  font-family: mySpecialFont;
+  src: url('arial.ttf');
+
+}
